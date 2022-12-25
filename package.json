@@ -11,6 +11,9 @@
     "url": "git+https://github.com/raisaurabh777/GitHubPackagesDemo.git"
   },
   "author": "raisaurabh777",
+  "publishConfig": {
+    "@raisaurabh777:registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/raisaurabh777/GitHubPackagesDemo/issues"
